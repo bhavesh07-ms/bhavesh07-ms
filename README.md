@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bhavesh Mahajan</h1>
 <h3 align="center">👋 Hi, I’m Bhavesh — a backend developer passionate about designing scalable systems, writing clean code, and solving real-world problems with Java and Spring Boot and dsa.</h3>
 
-- 🔭 I’m currently working on **GreeenPath**
+- 🔭 I’m currently working on **GreeenPath Full stack delivery optimization project**
 
 - 🌱 I’m currently learning **AWS, Angular**
 
